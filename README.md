@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Link to page rmib200.github.io
 
 You can use the [editor on GitHub](https://github.com/rmib200/manuelillanes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
